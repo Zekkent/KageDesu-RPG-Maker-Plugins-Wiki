@@ -1,1 +1,1 @@
-Repository for KD Plugins Library's Wiki BETA
+Repository for KD Plugins Library's Wiki
